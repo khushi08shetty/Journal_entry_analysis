@@ -42,5 +42,6 @@ This results in a collection of unorganized, emotionally charged entries that la
 
 Solution: The objective is to develop a tool that transforms these chaotic journal entries into a structured emotional weather report and extracts key thematic insights, providing users with a concise and actionable overview of their mental and emotional landscape, effectively streamlining the process of self-discovery.
 
+About the code: 
 
 
